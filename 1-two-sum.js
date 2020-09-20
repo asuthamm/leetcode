@@ -12,7 +12,6 @@ var twoSum = function(nums, target) {
     }
     lookup.push(curr);    
   }    
-  return 0;
 };
 
 twoSum([1,2,3,4],5)
